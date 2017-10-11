@@ -1,0 +1,36 @@
+
+open source --> src code--> modification, redistribute
+ 
+platform independent
+
+-->.java--> src code --> java compiler --> .class file(bytecode) --> jvm(java virtual machine) --> 
+machine code
+
+
+bytecode-->intermedite code
+
+Platform dependent
+JDK --> Java Development Kit --> code generate
+JRE --> Java Runtime Enviornment
+JVM --> Java Virtual Machine
+
+
+compile--> javac FileName.java
+Run    --> java ClassName
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
