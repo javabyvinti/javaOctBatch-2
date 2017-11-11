@@ -1,0 +1,8 @@
+--> when ever an object is created a constructor is called.
+
+	Demo1 obj = new Demo1();
+
+
+class--> logically exist --> car, fruit, vehicle, employee, etc
+
+object --> physically exist --> kuldeep is a student  
