@@ -1,0 +1,23 @@
+access specifiers--> 
+
+			
+public			max scope
+default (by default)	inside package
+protected
+private			min scope
+
+
+--> constructor
+--> whenever an object is created a constructor is called or invoked.
+--> initialize all the instance variables with default value.
+--> constructor name must be same as of class name
+--> no return type for constructor
+
+--> 2 types of constructors--> 
+
+1. Default constructor
+2. Parameterized constructor
+
+
+scope of object
+Person person = new Person();
