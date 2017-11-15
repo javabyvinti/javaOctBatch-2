@@ -1,0 +1,26 @@
+IS-A and Has-A
+
+IS-A --> Relationship Inheritance -->parent class and child class
+
+--> Dog is a Animal(features, behaviour)
+
+--> Car is a Vehicle(features, behaviour)
+
+
+Has-A --> Class and Object relationship
+
+--> Ram(object) has a Loan(class)--> AutoLoan, Edu, Personal, Home, etc
+
+--> Aman(object) has a Account(class)
+
+--> if need to use all features of class or most of the freatures of class--> better to do inheritance --> is-a
+
+--> if need to use only one or two or limited features of class--> better to do create object of that class--> has-a
+
+
+--> Java provides 3 types inheritance:
+--> single inheritance or single level inheritance
+--> multi-level inheritance
+--> hierarical inheritance
+
+
