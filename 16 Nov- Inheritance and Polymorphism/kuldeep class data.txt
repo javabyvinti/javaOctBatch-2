@@ -1,0 +1,21 @@
+super--> always point to the parent class
+--> constructor calling, method or variable
+
+this--> method or constructor or variable
+
+
+-->polymorphism--> one way many forms
+eg--> syso("hello" + "Java"); 
+	helloJava -> concatenate
+eg--> syso(10 + 10);
+	20 // --> arithemetic operation
+
+--> polymorphism
+
+--> method overloading
+
+sign: return type or no. of arguments can be changed but method name must remain same
+
+--> inheritance is not mandatory-->
+
+--> method overriding
