@@ -1,0 +1,57 @@
+RMI:
+
+Read Theory from here:
+
+https://www.javatpoint.com/RMI
+
+
+File Handling
+
+Read Theory from here:
+
+https://www.javatpoint.com/java-io
+
+
+Streams --> Flow of data --> byte data flow
+
+Stream File				Reader and Writer
+InputStream and OutputStream		FileReader and FileWriter
+
+mp3					txt
+mp4
+images
+networking
+
+
+
+System.out --> always write to console window
+File
+Socket
+
+
+
+//Step-1: Create a file
+//Step-2: File data write
+//Stwp-3: Read from file
+
+int value[] = {};
+ArrayList arraylist = new ArrayList();
+arraylist.add(10);
+
+ArrayList --> methods and dynamic and asynchronous
+
+and Vector
+
+Vector vector = new Vector(); --> method and dynamic but synchronous
+
+collections:
+
+Theory read from here:
+
+https://www.javatpoint.com/collections-in-java
+
+HashTable:
+
+Theory read from here:
+
+https://www.javatpoint.com/java-hashtable
